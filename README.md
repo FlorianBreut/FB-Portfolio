@@ -8,7 +8,7 @@ This repo features:
     * Geographic plotting with Folium
   * Major League Baseball Salary SQL/Python Jupyter Notebook
     * SQL data manipulation and analysis
-    * Data Correlation matrix analysis
+    * Data Correlation matrix analysis with seaborn
     * Prediction of player salary using Scilit Learn regression functions
 * A Simulaneous Localization and Mapping (SLAM) algorithm based on Extended Kalman Filter (EKF) for an Autonomous Ground Vehicle (AGV).
 This prototype algorithm was developed in Matlab environment.
