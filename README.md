@@ -7,8 +7,8 @@ This repo features:
     * Data visualization with Matplotlib
     * Geographic plotting with Folium  
       
+    ![img1b](https://github.com/FlorianBreut/FB-Portfolio/blob/master/illustrations/de2.JPG?raw=true)  
     ![img1](https://github.com/FlorianBreut/FB-Portfolio/blob/master/illustrations/de.JPG?raw=true)  
-    ![img1b](https://github.com/FlorianBreut/FB-Portfolio/blob/master/illustrations/de2.JPG?raw=true)    
       
   * SQL/Python Jupyter Notebook [Major League Baseball Salary](https://github.com/FlorianBreut/FB-Portfolio/blob/master/Traffic%20Acccidents%20in%20Denver.ipynb)
     * SQL data manipulation and analysis
