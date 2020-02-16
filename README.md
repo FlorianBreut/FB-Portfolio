@@ -24,7 +24,7 @@ This repo features:
     
    ![img3](https://github.com/FlorianBreut/FB-Portfolio/blob/master/illustrations/sl.JPG?raw=true)  
      
-* A C++ optimal algorithm for [3d water level](https://github.com/FlorianBreut/FB-Portfolio/tree/master/WaterVolume) computation
+* A C++ optimal algorithm for [water volume] from heightmap(https://github.com/FlorianBreut/FB-Portfolio/tree/master/WaterVolume) computation
   * Implementation of Binary Heap Priority queue without using stl
   * Implementation of Dijkstra algorithm variant  
     
