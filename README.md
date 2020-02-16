@@ -10,10 +10,10 @@ This repo features:
     * SQL data manipulation and analysis
     * Data Correlation matrix analysis with seaborn
     * Prediction of player salary using Scikit Learn regression functions
-* A [SLAM algorithm for Autonomous Vehicle](https://github.com/FlorianBreut/FB-Portfolio/blob/master/SLAM%20EKF%20FB.pdf) 
+* A Matlab [SLAM algorithm for Autonomous Vehicle](https://github.com/FlorianBreut/FB-Portfolio/blob/master/SLAM%20EKF%20FB.pdf) 
   * Based on Extended Kalman Filter (EKF). 
   * LIDAR and Ultrasonic sensor noise simulated
-  * This prototype algorithm was developed with Matlab and V-rep Robot simulation.
+  * This prototype algorithm was evaluated with V-rep Robot simulation environment.
 * A C++ optimal algorithm for [3d water level](https://github.com/FlorianBreut/FB-Portfolio/tree/master/WaterVolume) computation
   * Implementation of Binary Heap Priority queue without using stl
   * Implementation of Dijkstra algorithm variant
