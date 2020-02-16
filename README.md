@@ -14,7 +14,7 @@ This repo features:
     * Data Correlation matrix analysis with seaborn
     * Prediction of player salary using Scikit Learn regression functions  
       
-    ![img2](https://github.com/FlorianBreut/FB-Portfolio/blob/master/illustrations/ml.JPG?raw=true)  
+    ![img2](https://github.com/FlorianBreut/FB-Portfolio/blob/master/illustrations/ml.JPG?raw=true) ![img2b](https://github.com/FlorianBreut/FB-Portfolio/blob/master/illustrations/ml2.JPG?raw=true)    
       
 * A Matlab [SLAM algorithm for Autonomous Vehicle](https://github.com/FlorianBreut/FB-Portfolio/blob/master/SLAM%20EKF%20FB.pdf) 
   * Based on Extended Kalman Filter (EKF). 
