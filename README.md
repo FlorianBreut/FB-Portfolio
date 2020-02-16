@@ -8,6 +8,7 @@ This repo features:
     * Geographic plotting with Folium  
       
     ![img1](https://github.com/FlorianBreut/FB-Portfolio/blob/master/illustrations/de.JPG?raw=true)  
+    ![img1b](https://github.com/FlorianBreut/FB-Portfolio/blob/master/illustrations/de2.JPG?raw=true)    
       
   * SQL/Python Jupyter Notebook [Major League Baseball Salary](https://github.com/FlorianBreut/FB-Portfolio/blob/master/Traffic%20Acccidents%20in%20Denver.ipynb)
     * SQL data manipulation and analysis
@@ -27,7 +28,7 @@ This repo features:
   * Implementation of Binary Heap Priority queue without using stl
   * Implementation of Dijkstra algorithm variant  
     
-   ![img4](https://github.com/FlorianBreut/FB-Portfolio/blob/master/illustrations/sl.JPG?raw=true)  
+   ![img4](https://github.com/FlorianBreut/FB-Portfolio/blob/master/illustrations/wl.JPG?raw=true)  
      
 * A C++11 [multi-thread Computer Vision library](https://github.com/FlorianBreut/FB-Portfolio/tree/master/cv_rotate_img_lib) skeleton for Robotics applications :
   * Implementation of Nearest neighbour rotation algorithm
