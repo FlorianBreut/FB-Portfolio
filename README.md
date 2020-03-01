@@ -38,16 +38,16 @@ This repo features:
     
    ![img5](https://github.com/FlorianBreut/FB-Portfolio/blob/master/cv_rotate_img_lib/input/th.jpeg?raw=true) ![img6](https://github.com/FlorianBreut/FB-Portfolio/blob/master/cv_rotate_img_lib/output/expected_output/th_output.jpeg?raw=true)  
 
-* A Matlab Model for the [LR Mate 200i Robotic Arm] (https://github.com/FlorianBreut/FB-Portfolio/tree/master/LRMate200i)
+* A Matlab Model for the [LR Mate 200i Robotic Arm](https://github.com/FlorianBreut/FB-Portfolio/tree/master/LRMate200i)
   * kinematic model description
   * Denavit-Hartenberg parameters
   * computation of direct and indirect models with Matlab Robotic Toolbox
   
   ![img7](https://github.com/FlorianBreut/FB-Portfolio/blob/master/illustrations/LRMp.JPG?raw=true) ![img7b](https://github.com/FlorianBreut/FB-Portfolio/blob/master/illustrations/repere.JPG?raw=true)
 
-* A (6 bars mechanism)[https://github.com/FlorianBreut/FB-Portfolio/tree/master/6BarMech] study with 3 different tools
+* A [6 bars mechanism](https://github.com/FlorianBreut/FB-Portfolio/tree/master/6BarMech) study with 3 different tools
   * CAD with PTC Creo : Assembly and mechanism dynamics
   * Matlab kinematic model
   * MapleSim kinematic Model
 
-![img8](https://github.com/FlorianBreut/FB-Portfolio/blob/master/6BarMech/6bmcreo2.JPG?raw=true) ![img8b](https://github.com/FlorianBreut/FB-Portfolio/blob/master/6BarMech/6bmcreo.JPG?raw=true)  
+![img8](https://github.com/FlorianBreut/FB-Portfolio/blob/master/6BarMech/6bmcreo2.JPG?raw=true) ![img8b](https://github.com/FlorianBreut/FB-Portfolio/blob/master/6BarMech/6bmcreo.JPG?raw=true) ![img8c](https://github.com/FlorianBreut/FB-Portfolio/blob/master/6BarMech/6bVy.PNG?raw=true)
