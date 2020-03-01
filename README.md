@@ -23,6 +23,7 @@ This repo features:
   * This prototype algorithm was evaluated with V-rep Robot simulation environment.  
     
    ![img3](https://github.com/FlorianBreut/FB-Portfolio/blob/master/illustrations/sl.JPG?raw=true)  
+   ![img3b](https://github.com/FlorianBreut/FB-Portfolio/blob/master/illustrations/slvrep.PNG?raw=true)
      
 * A C++ optimal algorithm for [water volume](https://github.com/FlorianBreut/FB-Portfolio/tree/master/WaterVolume) from heightmap computation
   * Implementation of Binary Heap Priority queue without using stl
@@ -37,7 +38,7 @@ This repo features:
     
    ![img5](https://github.com/FlorianBreut/FB-Portfolio/blob/master/cv_rotate_img_lib/input/th.jpeg?raw=true) ![img6](https://github.com/FlorianBreut/FB-Portfolio/blob/master/cv_rotate_img_lib/output/expected_output/th_output.jpeg?raw=true)  
 
-* A Matlab Model for the [LR Mate 200i Robotic Arm] ()
+* A Matlab Model for the [LR Mate 200i Robotic Arm] (https://github.com/FlorianBreut/FB-Portfolio/tree/master/LRMate200i)
   * kinematic model description
   * Denavit-Hartenberg parameters
   * computation of direct and indirect models with Matlab Robotic Toolbox
