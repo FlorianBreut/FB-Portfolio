@@ -42,4 +42,4 @@ This repo features:
   * Denavit-Hartenberg parameters
   * computation of direct and indirect models with Matlab Robotic Toolbox
   
-  ![img7](https://github.com/FlorianBreut/FB-Portfolio/blob/master/illustrations/LRMp.JPG?raw=true) ![img8](https://github.com/FlorianBreut/FB-Portfolio/blob/master/illustrations/LRMm.JPG?raw=true) 
+  ![img7](https://github.com/FlorianBreut/FB-Portfolio/blob/master/illustrations/LRMp.JPG?raw=true)
