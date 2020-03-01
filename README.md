@@ -37,3 +37,9 @@ This repo features:
     
    ![img5](https://github.com/FlorianBreut/FB-Portfolio/blob/master/cv_rotate_img_lib/input/th.jpeg?raw=true) ![img6](https://github.com/FlorianBreut/FB-Portfolio/blob/master/cv_rotate_img_lib/output/expected_output/th_output.jpeg?raw=true)  
 
+* A Matlab Model for the [LR Mate 200i Robotic Arm] ()
+  * kinematic model description
+  * Denavit-Hartenberg parameters
+  * computation of direct and indirect models with Matlab Robotic Toolbox
+  
+  ![img7](https://github.com/FlorianBreut/FB-Portfolio/blob/master/illustrations/LRMp.JPG?raw=true) ![img8](https://github.com/FlorianBreut/FB-Portfolio/blob/master/illustrations/LRMm.JPG?raw=true) 
