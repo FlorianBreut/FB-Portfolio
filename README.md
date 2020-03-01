@@ -43,4 +43,11 @@ This repo features:
   * Denavit-Hartenberg parameters
   * computation of direct and indirect models with Matlab Robotic Toolbox
   
-  ![img7](https://github.com/FlorianBreut/FB-Portfolio/blob/master/illustrations/LRMp.JPG?raw=true)
+  ![img7](https://github.com/FlorianBreut/FB-Portfolio/blob/master/illustrations/LRMp.JPG?raw=true) ![img7b](https://github.com/FlorianBreut/FB-Portfolio/blob/master/illustrations/repere.JPG?raw=true)
+
+* A (6 bars mechanism)[https://github.com/FlorianBreut/FB-Portfolio/tree/master/6BarMech] study with 3 different tools
+  * CAD with PTC Creo : Assembly and mechanism dynamics
+  * Matlab kinematic model
+  * MapleSim kinematic Model
+
+![img8](https://github.com/FlorianBreut/FB-Portfolio/blob/master/6BarMech/6bmcreo2.JPG?raw=true) ![img8b](https://github.com/FlorianBreut/FB-Portfolio/blob/master/6BarMech/6bmcreo.JPG?raw=true)  
